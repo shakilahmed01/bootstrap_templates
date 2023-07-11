@@ -1,0 +1,7 @@
+.grad{
+        background-color: purple;
+        background-image: linear-gradient(purple, black);
+     }
+.underline:hover{
+        text-decoration: underline;
+     }
